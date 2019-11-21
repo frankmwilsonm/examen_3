@@ -84,6 +84,6 @@ public class Frank_Examen3 {
     public static void main(String[] args) {
         
         imprimirMatriz(transformCaracolfrank29());
-        imprimirMatriz(transformCaracolfrank14());
+//        imprimirMatriz(transformCaracolfrank14());
     }
 }
